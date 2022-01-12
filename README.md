@@ -1,5 +1,5 @@
 # Personal-Assistant
-React app to help users with making a todo list
+React app to help users make a todo list
 
 Install Node.js before running the app. <br/>
 View the documentation on https://nodejs.org/en/download/ <br/>
